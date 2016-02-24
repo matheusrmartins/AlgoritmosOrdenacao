@@ -1,0 +1,4 @@
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\bin\Release\MergeSort.exe
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\bin\Release\MergeSort.pdb
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\obj\x86\Release\MergeSort.exe
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\obj\x86\Release\MergeSort.pdb

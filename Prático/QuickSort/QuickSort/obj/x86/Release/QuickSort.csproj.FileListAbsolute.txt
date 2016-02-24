@@ -1,0 +1,5 @@
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\bin\Release\QuickSort.exe
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\bin\Release\QuickSort.pdb
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\obj\x86\Release\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\obj\x86\Release\QuickSort.exe
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\obj\x86\Release\QuickSort.pdb

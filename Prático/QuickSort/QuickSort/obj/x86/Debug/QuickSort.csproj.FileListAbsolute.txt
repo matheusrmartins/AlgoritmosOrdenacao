@@ -1,0 +1,24 @@
+C:\Users\mmartins\AppData\Local\Temporary Projects\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\mmartins\AppData\Local\Temporary Projects\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\mmartins\AppData\Local\Temporary Projects\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\mmartins\AppData\Local\Temporary Projects\QuickSort\obj\x86\Debug\QuickSort.pdb
+C:\Users\mmartins\Desktop\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\mmartins\Desktop\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
+C:\Users\mmartins\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\mmartins\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\mmartins\Desktop\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\APS\Teórico\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\Matheus\Documents\APS\Teórico\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
+C:\Users\Matheus\Documents\APS\Teórico\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Matheus\Documents\APS\Teórico\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Matheus\Documents\APS\Teórico\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Matheus\Documents\APS\Prático\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csprojResolveAssemblyReference.cache
+D:\APS\Prático\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+D:\APS\Prático\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
+D:\APS\Prático\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\APS\Prático\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\APS\Prático\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csprojResolveAssemblyReference.cache

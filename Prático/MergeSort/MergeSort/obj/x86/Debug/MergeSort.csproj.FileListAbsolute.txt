@@ -1,0 +1,24 @@
+C:\Users\mmartins\AppData\Local\Temporary Projects\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\mmartins\AppData\Local\Temporary Projects\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\mmartins\AppData\Local\Temporary Projects\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\mmartins\AppData\Local\Temporary Projects\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\mmartins\Desktop\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\mmartins\Desktop\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\mmartins\Desktop\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\mmartins\Desktop\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\mmartins\Desktop\MergeSort\MergeSort\obj\x86\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Matheus\Documents\APS\Teórico\MergeSort\MergeSort\obj\x86\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\APS\Prático\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\Matheus\Documents\APS\Prático\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\Matheus\Documents\APS\Prático\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Matheus\Documents\APS\Prático\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Matheus\Documents\APS\Prático\MergeSort\MergeSort\obj\x86\Debug\MergeSort.csprojResolveAssemblyReference.cache
+D:\APS\Prático\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+D:\APS\Prático\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
+D:\APS\Prático\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+D:\APS\Prático\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\APS\Prático\MergeSort\MergeSort\obj\x86\Debug\MergeSort.csprojResolveAssemblyReference.cache
